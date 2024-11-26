@@ -1,3 +1,3 @@
 Java Script Content 
-#variable 
-#Data Type 
+@variable 
+@Data Type 
